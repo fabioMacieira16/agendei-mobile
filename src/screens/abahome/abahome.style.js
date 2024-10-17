@@ -4,36 +4,13 @@ export const styles = {
     container: {
         backgroundColor: COLORS.white,
         flex: 1,
-        padding: 20,
-
+        padding: 12
     },
-    // containerLogo: {
-    //     alignItems: "center"
-    // },
+
     text: {
         fontSize: FONT_SIZE.md,
         color: COLORS.gray1,
-        marginTop: 15,
+        marginBottom: 15,
         marginLeft: 10,
     },
-    // logo: {
-    //     width: 100,
-    //     height: 23
-    // },
-    // containerInput: {
-    //     marginBottom: 15
-    // },
-    // input: {
-    //     backgroundColor: COLORS.gray5,
-    //     padding: 10,
-    //     borderRadius: 6
-    // },
-    // footer: {
-    //     alignItems: "center",
-    //     justifyContent: "center",
-    //     flexDirection: "row"
-    // },
-    // footerLink: {
-    //     color: COLORS.blue
-    // }
 }
