@@ -5,25 +5,25 @@ export const styles = {
         flex: 1,
         backgroundColor: COLORS.white,
         padding: 8,
-        frexDirection: "row",
+        flexDirection: "row",
         borderWidth: 1,
-        bordercolor: COLORS.gray4,
+        borderColor: COLORS.gray4,
         marginTop: 3,
         marginBottom: 3,
-        borderRadius: 6,
+        borderRadius: 6
     },
     name: {
         fontSize: FONT_SIZE.md,
         color: COLORS.gray1,
-        marginTop: 5,
+        marginTop: 5
     },
     specialty: {
         fontSize: FONT_SIZE.sm,
-        color: COLORS.gray3,
+        color: COLORS.gray3
     },
     icon: {
         width: 50,
         height: 50,
-        marginRight: 8,
-    },
+        marginRight: 8
+    }
 }
