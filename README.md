@@ -7,12 +7,17 @@ Descrição geral do projeto e dos dois sistemas implementados. Explique o prop�
 
 ## Funcionalidades
 
-### App: Nome do Sistema 1
+### App: Agendei-API
 - Funcionalidade 1: Descrição da funcionalidade 1.
 - Funcionalidade 2: Descrição da funcionalidade 2.
 - Funcionalidade 3: Descrição da funcionalidade 3.
 
-### API: Nome do Sistema 2
+### API: Agendei-WEB
+- Funcionalidade 1: Descrição da funcionalidade 1.
+- Funcionalidade 2: Descrição da funcionalidade 2.
+- Funcionalidade 3: Descrição da funcionalidade 3.
+- 
+### API: Agendei-MOBILE
 - Funcionalidade 1: Descrição da funcionalidade 1.
 - Funcionalidade 2: Descrição da funcionalidade 2.
 - Funcionalidade 3: Descrição da funcionalidade 3.
@@ -31,8 +36,8 @@ cd projeto
 # Instale as dependências
 npm install
 
-# Inicie o sistema 1
-npm run start:sistema1
+# Inicie o sistema web
+npm run dev
 
 # Inicie o sistema api
 node --watch src/index.js
