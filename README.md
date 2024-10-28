@@ -34,8 +34,9 @@ npm install
 # Inicie o sistema 1
 npm run start:sistema1
 
-# Inicie o sistema 2
-npm run start:sistema2
+# Inicie o sistema api
+node --watch src/index.js
+
 
 ## Contribuição
 
