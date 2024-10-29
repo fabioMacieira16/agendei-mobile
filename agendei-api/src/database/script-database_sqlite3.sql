@@ -1,3 +1,7 @@
+/*
+    Formato para usar no bancode dos dados sqlite3
+*/
+
 create table users (
     id_user   INTEGER PRIMARY KEY AUTOINCREMENT,
     name      VARCHAR (50),

@@ -73,7 +73,7 @@ function AppointmentAdd() {
                             className="btn btn-outline-primary me-3">
                             Cancelar
                         </Link>
-                        <button className="btn btn-primary">Salvar Dados</button>
+                        <button className="btn btn-primary">Salvar</button>
                     </div>
                 </div>
             </div>

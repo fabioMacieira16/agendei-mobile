@@ -40,7 +40,13 @@ npm install
 npm run dev
 
 # Inicie o sistema api
-node --watch src/index.js
+bash : node --watch src/index.js
+ou instalar o node :npm install -g nodemon
+Em seguida, execute o comando:
+bash : nodemon src/index.js
+
+
+ 
 
 
 ## Contribuição
